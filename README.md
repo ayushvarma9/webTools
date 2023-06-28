@@ -1,6 +1,6 @@
 # webTools
-#Install nodejs
-#modules:
-  ##Expreess
-###To instal: "nmp i express"
-##to initialize nmp: "nmp init -y"
+-Install nodejs
+- modules:
+    Expreess
+- To install: "nmp i express"
+- to initialize nmp: "nmp init -y"
